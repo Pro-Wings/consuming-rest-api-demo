@@ -1,0 +1,6 @@
+com\pro\wings\service\EmpService.class
+com\pro\wings\model\Employee.class
+com\pro\wings\service\EmpServiceImpl.class
+com\pro\wings\controller\EmpMgmtApiRestClient.class
+com\pro\wings\config\FrontControllerConfig.class
+com\pro\wings\config\WebAppConfig.class
